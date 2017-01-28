@@ -13,7 +13,7 @@ footer {
   text-align: center;
   font-family: cursive, sans-serif;
 }
-section h1, h2, p {
+h1, h2, p {
   text-align: center;
   font-family: cursive, sans-serif;
 }
@@ -22,7 +22,7 @@ section h1, h2, p {
     font-size: 150%;
 }
 
-section a {
+a {
   color: white;
 }
 .gray-text {
